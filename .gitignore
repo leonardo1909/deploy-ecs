@@ -1,0 +1,4 @@
+*/plano
+*/.terraform*
+
+.env
